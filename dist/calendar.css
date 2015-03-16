@@ -1,0 +1,7 @@
+.calendars{text-align:center;border:0 none;width:100%;}
+.calendars thead{background-color:#E3E3E3;color:#fff;}
+.calendars th{border:0 none;}
+.calendars tr.cal-hd-up{height:25px;color:#649431;}
+.calendars tr.cal-hd-dn th{background-color:#8ec165;padding:4px 0;}
+.calendars td{cursor:default;border:1px solid #fff;background-color:#F1F4E1;padding:3px 0;}
+.calendars .calToday{background-color:#c1e2b3;color:#fff;}
